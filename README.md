@@ -9,6 +9,8 @@ OAuth (Open Authorization) 2 Framework Grant Types
 - [Client Credentials Grant Type Flow](#client-credentials-grant-type-flow)
 - [Refresh Token Grant Flow](#refresh-token-grant-flow)
 
+A Story Guide Blog is available [here ...](https://medium.com/@athiththan11/oauth-2-grant-types-a-story-guide-582580a3c4c2)
+
 ## Authorization Code Grant Type Flow
 
 ![Authorization Code Grant Type](img/Authorization&#32;Code&#32;Grant&#32;Type&#32;Flow.png)
